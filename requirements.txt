@@ -1,2 +1,4 @@
 matplotlib==3.10.9
 scikit-learn==1.8.0
+NumPy==2.4.4
+statsmodels==0.14.6
